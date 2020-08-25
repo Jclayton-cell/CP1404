@@ -1,3 +1,7 @@
+"""
+CP1404
+Password checker
+"""
 MIN_LENGTH = 2
 MAX_LENGTH = 6
 
