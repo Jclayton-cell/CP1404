@@ -29,8 +29,10 @@ def get_data():
     input_file.close()
     return data
 
+
 def show_data(data):
     for subject_data in data:
         print("{} - taught by {:12} and has {:3} students".format(*subject_data))
+
 
 main()
