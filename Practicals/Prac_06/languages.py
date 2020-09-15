@@ -1,3 +1,5 @@
+"""CP1404 practical intermediate"""
+
 from Practicals.Prac_06.programming_language import ProgrammingLanguage
 
 ruby = ProgrammingLanguage("Ruby", "Dynamic", True, 1995)
